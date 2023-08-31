@@ -1,4 +1,3 @@
-using System;
 using HillClimb.Camera;
 using HillClimb.Game;
 using HillClimb.UI;
